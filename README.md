@@ -1,1 +1,2 @@
 # Fire-Detection-Digital-Image-Processing-
+A real-time fire detection framework was developed using classical computer vision techniques, including thresholding for flame localization, watershed segmentation for region refinement, and contour detection for boundary extraction. A Haar Cascade classifier was integrated to improve classification accuracy, coupled with an automatic alarm and email notification module to enable rapid emergency response.
